@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egiosub
-- 👀 I’m interested in technology, boards sports and anything agile 
+- 👀 I’m interested in technology, board sports and anything agile 
 - 📫 How to reach me: drop me a message :)
 
 <!---
