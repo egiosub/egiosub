@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @egiosub
-- 👀 A tech and board sports enthusiast with a passion for innovation and transformation
-- 🌱 I’m currently learning AWS, Agile, Global IT Management
-- 💞️ I’m looking to collaborate with other tech entusiasts
+- ✨ A Tech Recruiter @Amazon 
+- 👀 Tech and board sports enthusiast with a passion for innovation and transformation
+- 🌱 Learning AWS, Agile, Global IT Management
+- 💞️ Looking to network with other tech entusiasts
 
 <!---
 egiosub/egiosub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
