@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egiosub
+- 👋 Hi, I’m Elena
 - ✨ A Tech Recruiter @Amazon 
 - 👀 Tech and board sports enthusiast with a passion for innovation and transformation
 - 🌱 Learning AWS, Agile, Global IT Management
